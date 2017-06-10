@@ -1,0 +1,1 @@
+START cmd /k "for /l %%x in (85,1,112) do casperjs prs.js %%x >> weekdaysETA_part4.txt"
